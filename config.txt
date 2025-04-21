@@ -1,0 +1,2 @@
+net.rahli.ext.DaoImplV2
+net.rahli.metier.MetierImpl
